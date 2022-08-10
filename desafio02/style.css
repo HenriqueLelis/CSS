@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&family=Work+Sans:wght@400;500;700&display=swap');
+
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+}
+
+.container {
+    position: absolute;
+    width: 800px;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+
+    background: var(--body-bg-color);
+}
+
+.container .logo img {
+    position: absolute;
+    width: 389px;
+    height: 94px;
+    left: 30px;
+    top: 50px;
+}
+
+.container .info-container {
+    position: absolute;
+    width: 647px;
+    height: 102px;
+    left: 36px;
+    top: 50px;
+}
+
+.info-container .info1 {
+    position: absolute;
+    width: 566px;
+    height: 30.44px;
+    left: 36px;
+    top: 236px;
+
+    font-family: "Work Sans", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: var(--title-color);
+}
+
+.info-container .info2 {
+    position: absolute;
+    width: 517px;
+    height: 16px;
+    left: 36px;
+    top: 280px;
+
+    font-family: "Spartan", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: var(--text-color);
+}
+
+.info-container .info3 {
+    position: absolute;
+    width: 647px;
+    height: 38px;
+    left: 36px;
+    top: 300px;
+
+    font-family: "Spartan", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: var(--text-color);
+}
+
+.container .email-container {
+    position: absolute;
+    width: 798px;
+    height: 84px;
+    left: 36px;
+    top: 80px;
+}
+
+.email-container .email {
+    position: absolute;
+    width: 133px;
+    height: 19px;
+    left: 36px;
+    top: 388px;
+
+    font-family: "Spartan", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: var(--form-color);
+}
+
+.email-container .email1 {
+    position: absolute;
+    width: 798px;
+    height: 48px;
+    margin-top: 15px;
+
+    border: 2px solid;
+    border-color: var(--title-color);
+    filter: drop-shadow(4px 10px 15px rgba (0, 0, 0, 0.5));
+
+    font-family: "Work Sans", sans-serif;
+}
+
+
+.email-container .buttonemail {
+    position: absolute;
+    width: 48px;
+    height: 53.5px;
+    left: 798px;
+    margin-top: 15px;
+
+    border: var(--text-color);
+    background: var(--bg-button-color);
+}
+
+.container .read-container {
+    position: absolute;
+    width: 196px;
+    height: 24px;
+    left: 36px;
+    top: 100px;
+}
+
+.read-container .read {
+    position: absolute;
+    width: 167px;
+    height: 19px;
+    left: 36px;
+    top: 524px;
+
+    font-family: "Spartan", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: var(--bg-button-color);
+}
+
+.read img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 140px;
+
+    color: var(--bg-button-color);
+}
+
+.container .menimg {
+    position: absolute;
+    width: 1175px;
+    height: 900px;
+    left: 367px;
+    top: 0px;
+}
+
+.menimg img {
+    position: absolute;
+    width: 1202px;
+    height: 100vh;
+    left: 350px;
+    top: 0px;
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
